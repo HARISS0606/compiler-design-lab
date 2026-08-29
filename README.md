@@ -4,10 +4,9 @@ Chennai Institute of Technology · Department of Computer Science & Engineering
 **Course:** CS4501 – Compiler Design | **Semester:** July–December 2026
 
 This repository contains all 10 lab experiments for the Compiler Design course, implemented in C
-using **LEX** and **YACC**. Every experiment folder includes:
-- Full **source code** (`.l`/`.y`/`.c` files)
-- A **README.md** — aim, algorithm/procedure summary, and build/run commands
-- An **OUTPUT.md** — the complete program output (with terminal screenshots where available)
+using **LEX** and **YACC**. Each experiment folder has a single `README.md` covering the AIM,
+ALGORITHM, PROCEDURE, full source CODE, OUTPUT, and RESULT — plus the raw source files
+(`.l` / `.y` / `.c`) so you can compile and run them directly.
 
 ## Experiments
 
@@ -30,7 +29,8 @@ Most experiments require `flex`/`lex` and `bison`/`yacc`. On Ubuntu/Debian:
 ```bash
 sudo apt-get install flex bison gcc
 ```
-Each experiment folder has its own `README.md` with exact build/run commands and sample I/O.
+Click into any experiment folder above — its `README.md` renders as one complete page on GitHub
+with everything you need (aim, algorithm, procedure, code, output, result).
 
 ## Author
 Hariss Kumar K — CSE, Chennai Institute of Technology
