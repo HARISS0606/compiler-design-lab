@@ -1,0 +1,20 @@
+# Build artifacts from lex/yacc/gcc
+lex.yy.c
+y.tab.c
+y.tab.h
+*.o
+*.out
+a.out
+infile.txt
+
+# Binaries (compiled experiment executables — adjust as needed)
+symbol_table
+lexical_analyzer
+art_expr
+valvar
+control
+calc
+tac
+type_checking
+code_optimization
+backend_8086
