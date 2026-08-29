@@ -24,3 +24,5 @@ Answer: 4
 ## Result
 Thus the program for implementing calculator using LEX and YACC was executed and verified
 successfully.
+
+**Full output:** see [OUTPUT.md](./OUTPUT.md)

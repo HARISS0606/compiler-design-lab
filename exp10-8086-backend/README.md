@@ -50,3 +50,5 @@ MOV x, AX
 ## Result
 Thus, the back-end of the compiler was successfully implemented to translate three-address code into
 equivalent 8086 assembly language code.
+
+**Full output:** see [OUTPUT.md](./OUTPUT.md)

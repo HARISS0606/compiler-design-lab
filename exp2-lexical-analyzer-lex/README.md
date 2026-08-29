@@ -17,3 +17,5 @@ gcc lexical_analyzer.c -o lexical_analyzer
 
 ## Result
 Thus, the C program for implementation of Lexical Analyzer was executed and verified successfully.
+
+**Full output:** see [OUTPUT.md](./OUTPUT.md)

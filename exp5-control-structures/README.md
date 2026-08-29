@@ -25,3 +25,5 @@ Valid control structure syntax.
 ## Result
 Thus the program to recognize a valid control structure syntax of C language (for loop, while loop,
 if-else, if-else-if, switch-case, etc.) using LEX and YACC was executed and verified successfully.
+
+**Full output:** see [OUTPUT.md](./OUTPUT.md)

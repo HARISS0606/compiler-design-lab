@@ -26,3 +26,5 @@ a = t2
 ## Result
 Thus, the program to generate three-address code using LEX and YACC was executed and verified
 successfully.
+
+**Full output:** see [OUTPUT.md](./OUTPUT.md)

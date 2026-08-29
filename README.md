@@ -4,7 +4,10 @@ Chennai Institute of Technology · Department of Computer Science & Engineering
 **Course:** CS4501 – Compiler Design | **Semester:** July–December 2026
 
 This repository contains all 10 lab experiments for the Compiler Design course, implemented in C
-using **LEX** and **YACC**.
+using **LEX** and **YACC**. Every experiment folder includes:
+- Full **source code** (`.l`/`.y`/`.c` files)
+- A **README.md** — aim, algorithm/procedure summary, and build/run commands
+- An **OUTPUT.md** — the complete program output (with terminal screenshots where available)
 
 ## Experiments
 

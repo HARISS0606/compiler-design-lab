@@ -34,3 +34,5 @@ c=s+s;  // Strength Reduction (X*2 to X+X)
 ## Result
 Thus, the C program for simple code optimization techniques like constant folding, strength
 reduction, and algebraic simplification was successfully implemented and tested with various inputs.
+
+**Full output:** see [OUTPUT.md](./OUTPUT.md)

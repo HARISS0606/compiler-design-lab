@@ -35,3 +35,5 @@ SEMANTIC ANALYZER (TYPE CHECKING):
 ## Result
 Thus, the C program for type checking was successfully implemented. The program verifies variable
 types from declarations and checks type consistency in given expressions using a symbol table.
+
+**Full output:** see [OUTPUT.md](./OUTPUT.md)

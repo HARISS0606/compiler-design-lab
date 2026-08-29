@@ -24,3 +24,5 @@ valid Expression
 ## Result
 Thus the program to recognize a valid arithmetic expression that uses operator +, -, * and / using
 YACC tool was executed and verified successfully.
+
+**Full output:** see [OUTPUT.md](./OUTPUT.md)

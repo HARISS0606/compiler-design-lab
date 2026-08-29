@@ -16,3 +16,5 @@ gcc symbol_table.c -o symbol_table
 
 ## Result
 Thus the C program to implement Symbol Table was executed and verified successfully.
+
+**Full output:** see [OUTPUT.md](./OUTPUT.md)

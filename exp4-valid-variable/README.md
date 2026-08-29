@@ -29,3 +29,5 @@ Invalid variable
 ## Result
 Thus the program to recognize a valid variable which starts with a letter followed by any number of
 letters or digits using YACC tool was executed and verified successfully.
+
+**Full output:** see [OUTPUT.md](./OUTPUT.md)
